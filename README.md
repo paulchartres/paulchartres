@@ -1,1 +1,1 @@
-![Header](./assets/banner.png)
+![Header](./assets/github_banner.png)
