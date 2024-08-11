@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulchartres&label=Profile%20views&color=c0c0c0&style=flat" alt="paulchartres" /> </p>
 
-- 🔭 I’m currently working on [Packscan, the organized mess manager](Coming soon :))
+- 🔭 I’m currently working on Packscan, the organized mess manager (Coming soon :))
 
 - 🌱 I’m currently learning **GoLang, to broaden my horizons as a fullstack dev!**
 
